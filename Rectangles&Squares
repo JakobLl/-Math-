@@ -16,7 +16,7 @@ int w;
 int area(h*w);
     cout << " The area is: " << area;
 
-    return (h*w); /* Not Necessary */
+    return (h*w); /* Not Necessary */ 
 
 }
 
