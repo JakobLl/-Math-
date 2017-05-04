@@ -5,10 +5,9 @@
 using namespace std;
 int main ()
 {
-       double param, result;
-    int enter;
+       double param, result, enter;
     while (enter!=0){
-    cout << " \v\t Enter 0 to stop \n Enter Value: ";
+     cout << " \v\t Enter 0 to stop \n Enter Value: ";
     cin >> enter;
     if (enter==0){
    break;
